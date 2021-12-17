@@ -21,6 +21,8 @@
 
 ### ΒΗΜΑ 2:
 
+Οι εξομοιώσεις specxxxx_0 χρησιμοποίησαν τις παραμέτρους: l1d_size=32kB, l1i_size=64kB, l2_size=512kB, l1i_assoc=1, l1d_assoc=1, l2_assoc=2, cacheline_size=64.
+
 BZIP:
 |Benchmarks|	system.cpu.cpi|	system.cpu.dcache.overall_miss_rate::total|	system.cpu.icache.overall_miss_rate::total|	system.l2.overall_miss_rate::total|
 |---|---|---|---|---|
