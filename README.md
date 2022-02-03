@@ -70,3 +70,5 @@ SJENG:
 |specsjeng_1|	7.041190|	0.121831|	0.000020|	0.999975|
 |specsjeng_2	|7.191998	|0.121830	|0.000020	|0.999985|
 |**specsjeng_3**|	**4.934884**|	**0.060917**|	**0.000014**|	**0.999967**|
+
+![](https://github.com/ChristosBodinas/AdvCompArch2/blob/main/graphs/specsjeng.png)
