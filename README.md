@@ -31,6 +31,8 @@ BZIP:
 |specbzip_2	|1.724184	|0.021384|	0.000078	|0.271750|
 |**specbzip_3**|	**1.588198**|	**0.007669**|	**0.000055**	|**0.587973**|
 
+![](https://github.com/ChristosBodinas/AdvCompArch2/blob/main/graphs/specbzip.png)
+
 HMMER:
 |Benchmarks	|system.cpu.cpi	|system.cpu.dcache.overall_miss_rate::total|	system.cpu.icache.overall_miss_rate::total	|system.l2.overall_miss_rate::total|
 |---|---|---|---|---|
@@ -38,6 +40,8 @@ HMMER:
 |spechmmer_1|	1.186575|	0.002018|	0.000403|	0.060586|
 |spechmmer_2	|1.183838	|0.000662	|0.000402	|0.171604|
 |**spechmmer_3**|	**1.178979**|	**0.000367**|	**0.000385**|	**0.150107**|
+
+![](https://github.com/ChristosBodinas/AdvCompArch2/blob/main/graphs/spechmmer.png)
 
 LBM:
 |Benchmarks	|system.cpu.cpi	|system.cpu.dcache.overall_miss_rate::total|	system.cpu.icache.overall_miss_rate::total	|system.l2.overall_miss_rate::total|
@@ -47,6 +51,8 @@ LBM:
 |speclbm_2	|2.617348	|0.060971	|0.000097	|0.999931|
 |**speclbm_3**	|**2.003465**|	**0.030487**|	**0.000107**|	**0.999827**|
 
+![](https://github.com/ChristosBodinas/AdvCompArch2/blob/main/graphs/speclbm.png)
+
 MCF:
 |Benchmarks	|system.cpu.cpi	|system.cpu.dcache.overall_miss_rate::total|	system.cpu.icache.overall_miss_rate::total	|system.l2.overall_miss_rate::total|
 |---|---|---|---|---|
@@ -55,6 +61,7 @@ MCF:
 |specmcf_2|	1.142315	|0.001877	|0.000042|	0.917136|
 |**specmcf_3**|	**1.117395**	|**0.001120**|	**0.000034**	|**0.850487**|
 
+![](https://github.com/ChristosBodinas/AdvCompArch2/blob/main/graphs/specmcf.png)
 
 SJENG:
 |Benchmarks	|system.cpu.cpi	|system.cpu.dcache.overall_miss_rate::total|	system.cpu.icache.overall_miss_rate::total	|system.l2.overall_miss_rate::total|
